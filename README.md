@@ -39,4 +39,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedmtc&" alt="mohamedmtc" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/engmohamedAtia"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/engmohamedAtia" /></a><a href="https://ko-fi.com/https://ko-fi.com/mohamedebrahimatia"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/mohamedebrahimatia" /></a></p>
+<p><a href="https://www.buymeacoffee.com/engmohamedAtia"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/engmohamedAtia" /></a><a href="https://ko-fi.com/mohamedebrahimatia"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/mohamedebrahimatia" /></a></p>
